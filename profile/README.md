@@ -5,7 +5,9 @@ All In Network no es un exchange "orderbook", somos una parachain que provee tod
 
 cuando hablamos de herramientas nos referimos a que proveemos conexion a mentores con experiencia en los mercados crypto, un simulador de trading para evaluar a traders y el tesoro de la parachain provee el financiamiento luego  de la aprobacion de la evaluacion
 
-
+# Categoria a Participar
+- Defi
+- Nft
 
 # Descripcion del problema
 - una problematica que hay al dia de hoy es que cuando un nuevo usuario quiere adentrarse al mundo del trading crypto, la primer plataforma de busca de informacion es youtube, y muchos de esos canales proveen mala informacion, mala educacion y poca transparencia
