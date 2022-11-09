@@ -47,10 +47,10 @@ mas info aqui: [arquitectura](https://docs.all-in.app/arquitectura)
 - [Documentation](https://docs.all-in.app)
 
 
-# Tech Stack
+# Stack
 - [stack](https://docs.all-in.app/stack)
 
-# Authors
+# Equipo
 
 - Cristian gomez felipeg1702@hotmail.com
 - Evert Escalante evertescalante@gmail.com
